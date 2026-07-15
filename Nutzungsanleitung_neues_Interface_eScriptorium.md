@@ -11,7 +11,7 @@ Sie loggen sich bei eScriptorium mit einem individuellen Konto ein, das aus eine
 
 Sobald Sie eingeloggt sind, sehen Sie das Dashboard, welches Ihnen alle Dokumente, die Sie selbst erstellt haben und die mit ihnen geteilt wurden, anzeigt. Beim ersten Login ist das Dashboard leer.  
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/02.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/02.png)
 
 ### 1.2. Ein neues Projekt anlegen
 ##### 1.2.1. Terminologie
@@ -38,21 +38,21 @@ Nach der Eingabe der Informationen, klicken Sie auf "Create", um das Dokument zu
 
 Um vom Dashboard wieder auf das Eingabeformular bzw. das zuletzt bearbeitete Element zu kommen, müssen Sie auf das Dokument klicken, um es zu öffnen. Wählen Sie anschließend "Edit" aus, um die Daten anzupassen.
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/05.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/05.png)
 
 ### 1.4. Bilder hochladen
 #### 1.4.1. Zugriff auf das Interface
 Unter der Schnittstelle „Bilder“ werden alle Anwendungen hinsichtlich der automatischen Bildverarbeitung sowie der Importe und Exporte verwaltet.
 Um auf diese Schnittstelle zuzugreifen, klicken Sie innerhalb eines Dokumentes einfach bei "Your Recent Images" auf "View All".  
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/06.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/06.png)
 
 Es gibt mehrere Möglichkeiten Bilder auf die Plattform hochzuladen, die im Folgenden erläutert werden. 
 
 #### 1.4.2. Lokale Dateien importieren
 Die Bilder können einfach per „Drag and Drop“ hochgeladen werden oder durch Auswählen der Bilder im File Explorer, mittels eines Klicks in die Box.  
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/07.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/07.png)
 
 **Hinweis**: Bevor die Seite neugeladen werden kann, muss der Import aller Bilder abgeschlossen sein. eScriptorium bietet momentan keine Möglichkeit Bilder automatisch zu sortieren, daher sollte beim Upload darauf geachtet werden, alle Bilder in der richtigen Reihenfolge auszuwählen sowie auf eine entsprechende Benennung zu achten ansonsten müssen die Bilder händisch sortiert werden.
 
@@ -70,7 +70,7 @@ Klicken Sie auf den "Import"-Button, dann auf die Option "XML/ZIP" und laden ein
 
 Unter "Tasks" wird der Fortschritt des Upload-Prozesses angezeigt.
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/08.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/08.png)
 
 ### 1.5. Dokumente manuell mit Annotationen versehen
 #### 1.5.1. Zugriff auf das Interface
@@ -78,8 +78,8 @@ Manuelle Annotationen sind nötig, um Ground-Truth-Daten zu generieren und damit
 
 Um Annotationen manuell zu erstellen und zu modifizieren, klicken Sie innerhalb Ihres Dokuments bei "Your Recent Images" auf "View All". Wählen Sie die "Edit"-Optionen auf den jeweiligen Bildern aus, um mehrere Bearbeitungsbereiche passend zu den möglichen Editierungsoptionen auswählen (v.l.n.r.).
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/09.png)
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/10.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/09.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/10.png)
 
 - **„Segment“** zeigt den Segmentationsbearbeitungsbereich an  
 - **„Transcribe“** zeigt den Bearbeitungsbereich der Transkription in der diplomatischen Ansicht an  
@@ -133,7 +133,7 @@ Nur wenn Baselines und Masken auf dem Bild festgelegt sind, gibt es die Möglich
 Um eine einer Zeile zugeordnete Transkription hinzuzufügen oder zu ändern, klicken Sie im Bereich "Transcription" auf die entsprechende Zeile. Ein Eingabefenster wird angezeigt. Um eine Transkription aufzunehmen, drücken Sie „Enter“: es wird automatisch das Eingabefeld für die nächste Zeile angezeigt.  
 Während Sie im Fenster "Transcription" tippen, werden die mit Zeilen versehenen Bereiche durch Text ersetzt und der Inhalt des Fensters "Text" ändert sich. Es ist also möglich den Text im Textfenster zu modifizieren, zu kopieren und mehrere Zeilen auf einmal einzufügen.  
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/11.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/11.png)
 
 #### 1.5.4. Eine Anmerkung zur Gliederung von Baselines, Polygonen und Transkriptionen
 Die „Baseline“ ist ein zentrales Element, um Informationen in der eScriptorium Database zu speichern. Also:    
