@@ -20,7 +20,7 @@ Sobald Sie eingeloggt sind, sehen Sie das Dashboard, welches Ihnen alle Dokument
 #### 1.2.2. Instruktionen
 Um ein neues Projekt zu erstellen, klicken Sie auf den Button „Create New“, dadurch öffnet sich eine neue Seite auf der Sie den Namen des Projektes angeben müssen. Anschließend öffnet sich Ihr neues Projekt automatisch.
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/03.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/03.png)
 
 ### 1.3. Ein neues Dokument anlegen
 #### 1.3.1. Terminologie
@@ -30,7 +30,7 @@ Um ein neues Projekt zu erstellen, klicken Sie auf den Button „Create New“, 
 #### 1.3.2.Instruktionen
 Um ein Dokument zu erstellen, klicken Sie innerhalb eines Projektes bei "Documents" auf den Button „Create New“, dadurch öffnet sich ein Eingabeformular: 
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/04.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/04.png)
 
 Die Felder „Name“, "Script", "Read Direction" und "Line Position" müssen ausgefüllt werden. Die übrigen Felder sind optional und können später ergänzt werden.  
 
@@ -89,7 +89,7 @@ Um Annotationen manuell zu erstellen und zu modifizieren, klicken Sie innerhalb 
 #### 1.5.2. Segmente und Bereiche auf dem Bild mit Annotationen versehen
 Im Segmentbearbeitungsfenster können Sie mehrere wesentliche Operationen durchführen: 
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/10.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/10.png)
 
 **Baselines:** (Lines mode)  
 - Das Zeichnen von „Baselines“, die den Positionen des Textes auf dem Bild entsprechen, kann auf **zwei unterschiedliche Arten erfolgen**:  
