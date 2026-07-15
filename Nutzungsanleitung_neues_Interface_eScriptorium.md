@@ -7,7 +7,7 @@
 ### 1.1. Einloggen in eScriptorium
 Sie loggen sich bei eScriptorium mit einem individuellen Konto ein, das aus einem Login, einem Passwort und einer E-Mail-Adresse besteht. Ein Konto wird vom Benutzer nach Erhalt einer Einladung oder vom Administrator der Website erstellt:    
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/01.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/01.png)
 
 Sobald Sie eingeloggt sind, sehen Sie das Dashboard, welches Ihnen alle Dokumente, die Sie selbst erstellt haben und die mit ihnen geteilt wurden, anzeigt. Beim ersten Login ist das Dashboard leer.  
 
