@@ -152,14 +152,14 @@ Es ist möglich die Reihenfolge im „Text/Line Ordering“-Fenster durch das Kl
 
 **Hinweis:** Es ist empfehlenswert, die Qualität der Segmentierung sicherzustellen, bevor die Reihenfolge der Zeilen geändert wird, weil das Hinzufügen und Entfernen von Zeilen die Berechnung dieser Reihenfolge systematisch neustartet und dabei manuelle Modifikationen überschreibt.  
   
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/12.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/12.png)
 
 #### 1.5.6. Semantische Annotationen
 Es ist möglich, den Zeilen und Bereichen Etiketten (oder Tags) zuzuordnen, indem man einer vom User vordefinierten Ontologie folgt. Es gibt Standard-Tags, aber es ist auch möglich, diese über das Eingabefeld hinzuzufügen (Klicken Sie rechts oben auf das Symbol mit dem Viereck, dem Kreis, dem Dreieck und dem Pluszeichen, dann „Add New“ und anschließend fügen Sie den neuen Tag zur Liste hinzu und bestätigen mit "Save") oder zu löschen (entfernen sie Die Haken von den Boxen vor dem Tag und klicken Sie anschließend auf „Save“).  
 
 Wählen Sie im Bereich „Segmentation“ einen Bereich oder eine Zeile aus, klicken Sie auf „Set the type of selected lines (T)” (Das Symbol mit dem Viereck, dem Kreis und dem Dreieck) und wählen Sie das entsprechende Tag aus. Die Farben des Bereichs oder Zeile ändern sich. Es ist möglich ein Tag auf mehrere Bereiche oder Zeilen auf einmal anzuwenden: dafür wählen Sie alle gewünschten Bereiche aus (STRG+ Klick und Ziehen oder STRG gedrückt halten und die gewünschten Zeilen/Bereiche anklicken).  
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/13.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/13.png)
 
 ### 1.6. Annotationen Importieren
 #### 1.6.1. Strukturierte Annotationen als XML importieren
@@ -167,7 +167,7 @@ Es gibt die Möglichkeit Segmentierungen oder Transkriptionen, die außerhalb vo
 Nun können Sie einen Namen für die importierte Version festlegen, und eine Datei für den Import hochladen. Dies kann eine ALTO XML Datei, eine PAGE XML Datei oder eine ZIP-Datei, die ALTO oder PAGE Dateien beinhaltet, sein.  
 Es ist nicht notwendig vorher auszuwählen, welche Teile des Dokuments vom Import betroffen sind: die Verbindung wird automatisch hergestellt durch die Informationen aus den XML Dateien.  
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/14.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/14.png)
 
 Bitte beachten Sie, dass es, nachdem Segmentierungen importiert wurden, die nicht mit Kraken/eScriptorium erzeugt wurden, wichtig ist, die Polygone (Masken) zurückzusetzen bevor mit diesen Dokumenten Modelle trainiert werden.
 
@@ -188,7 +188,7 @@ Automatische Dokumentannotationen werden über den Tab „Images“ verwaltet.
 - **„Regions“** ermöglichen es, Baselines und Polygone, die schon auf den Bildern existieren, zu erhalten und nur neue Bereiche zu generieren  
 - **„Text Direction“** indiziert die Leserichtung der Zeilen 
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/15.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/15.png)
 
 ### 1.8. Modelle trainieren
 #### 1.8.1. Ein Training starten  
@@ -216,14 +216,14 @@ Das Exportieren von Annotationen funktioniert über den Tab „Images“.
   - Setzen Sie einen Haken bei „Include Images“, wenn Sie zusätzlich die **Bilder exportieren** möchten  
   - Klicken Sie auf „Export“ und speichern sie die **generierte ZIP-Datei**  
   
-  ![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/17.png)
+  ![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/17.png)
 
 ## 2. Verwalten einer kollaborativen Annotation Campaign  
 ### 2.1. Erstellen einer Usergruppe (Admin)  
 Es ist möglich eine Nutzergruppe (Vorausgesetzt Sie haben die erforderlichen Rechte) zu erstellen. Diese Gruppen dienen dazu Arbeitsgruppen zu definieren oder um ausgewählten Usern bestimmte Rechte zu erteilen.  
 Klicken Sie hierfür innerhalb eines Projekts rechts oben auf "Groups & Users", hier können Gruppen erstellt werden. Zudem werden hier auch die eigenen Gruppenzugehörigkeiten aufgelistet.  
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/18.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/18.png)
 
 ### 2.2. Teilen eines Dokumentes mit einem anderen User oder einer Gruppe
 Ein User kann ein Dokument mit mehreren anderen Usern teilen, auch mit denjenigen, die nicht Teil der Gruppe sind, welcher das Dokument angehört. Dies ist innerhalb eines Dokuments über den Button "Groups & Users" möglich.
@@ -231,7 +231,7 @@ geht über den Tab „Beschreibung“:
 - Geben Sie den Namen des Users ein, mit dem Sie Ihr Dokument teilen möchten oder setzen Sie einen Haken bei seinem Namen in der Liste  
 - Um zu bestätigen, klicken Sie auf „Submit“  
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/eScriptorium_new_interface/images_new_interface/19.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/19.png)
 
 ### 2.3. Ein Modell mit einem anderen User oder einer Gruppe teilen
 Ein Modell ist mit einem Dokument verknüpft und nicht mit einem User. Um ein Modell mit anderen Usern zu teilen, gibt es zwei Möglichkeiten:  
