@@ -89,7 +89,7 @@ Um Annotationen manuell zu erstellen und zu modifizieren, klicken Sie innerhalb 
 #### 1.5.2. Segmente und Bereiche auf dem Bild mit Annotationen versehen
 Im Segmentbearbeitungsfenster können Sie mehrere wesentliche Operationen durchführen: 
 
-![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/10.png)
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/10.2.png)
 
 **Baselines:** (Lines mode)  
 - Das Zeichnen von „Baselines“, die den Positionen des Textes auf dem Bild entsprechen, kann auf **zwei unterschiedliche Arten erfolgen**:  
@@ -189,6 +189,15 @@ Automatische Dokumentannotationen werden über den Tab „Images“ verwaltet.
 - **„Text Direction“** indiziert die Leserichtung der Zeilen 
 
 ![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/15.png)
+
+#### 1.7.3. Vergleich verschiedener Transkriptionen
+- Laden Sie das Bild eines Dokumentes in eScriptorium hoch
+- Führen Sie die Texterkennung mit dem gewünschten Modell durch und anschließend mit einem zweiten Modell oder mit manueller Texterkennung  
+- Nun wählen Sie in der Bearbeitungsansicht eine Textzeile in der Transkription aus, die angezeigt werden soll
+- Anschließend klicken Sie auf “Transcription comparison” und wählen im drop-down menu die Transkriptionen aus, die Sie vergleichen möchten 
+- Sie sehen nun markierten Text in rot und grün: Grüne Zeichen sind in der aktuellen (bearbeitbaren) Transkription nicht vorhanden, rote Zeichen sind in der verglichenen Transkription nicht vorhanden 
+
+![grafik](https://github.com/anniwherebuthere/eScriptorium_Dokumentation/blob/tutorial_new_interface/images_new_interface/16.png)
 
 ### 1.8. Modelle trainieren
 #### 1.8.1. Ein Training starten  
