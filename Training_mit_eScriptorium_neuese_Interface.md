@@ -102,7 +102,7 @@ Die folgenden Abschnitte beschreiben diesen Workflow im Detail.
 #### Schritt 1: Neues Projekt und Dokument erstellen
 Beginnen Sie mit dem Anlegen eines neuen eScriptorium-Projekts, indem Sie zur eScriptorium-Startseite gehen und auf **"Projects"** in der oberen linken Ecke des Bildschirms klicken.
 
-<img src="./images/23.png" width="40%"><br/>
+<img src="./images/23.png" width="20%"><br/>
 
 Klicken Sie anschließend auf die türkise Schaltfläche **"Create New"**.
 
