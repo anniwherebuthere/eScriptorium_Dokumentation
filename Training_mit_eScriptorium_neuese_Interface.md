@@ -73,7 +73,7 @@ Vor allem für das Nachtraining bereits vorhandener Layoutsegmentierungs- oder T
 
 Alle `kraken`-Modelle können in eScriptorium hochgeladen werden, indem Sie auf **"Models"** in der oberen linken Ecke des Bildschirms klicken. Klicken Sie auf der nächsten Seite rechts oben auf **"Upload a model"** und wählen Sie das Modell aus, das Sie hochladen möchten.
 
-<img src="./images/22.png" width="120%"><br/>
+<img src="./images/22.png" width="140%"><br/>
 
 ### 2.3. Wie wähle ich ein Modell für einen bestimmten Nutzungszweck aus?
 Die Genauigkeit eines Modells hängt von verschiedenen Faktoren ab und muss für jeden Anwendungsfall getestet werden. Ein Modell, das bspw. auf traditionelle chinesische Schriftzeichen trainiert wurde, wird aller Voraussicht nach bei deutschen Dokumenten, die in Fraktur gedruckt sind, nicht gut abschneiden.
@@ -114,11 +114,11 @@ Geben Sie Ihrem Projekt anschließend einen Namen und klicken Sie auf **"Create"
 
 Nachdem das Projekt erstellt wurde, öffnet sich dieses automatisch. Sie können zudem über die Projektübersicht zu den einzelnen Projekten gelangen.
 
-<img src="./images/26.png" width="125%"><br/>
+<img src="./images/26.png" width="145%"><br/>
 
 Erstellen Sie ein neues Dokument in Ihrem Projekt, indem Sie innerhalb des Projekts auf die Schaltfläche **"Create New"** klicken.
 
-<img src="./images/27.png" width="120%"><br/>
+<img src="./images/27.png" width="135%"><br/>
 
 Geben Sie in dem Fenster, das sich nun öffnet, einen Namen für das Dokument ein, wählen Sie ein Schriftsystem aus, geben Sie die Leserichtung sowie die Position der Zeilen an und klicken Sie auf **"Create"** (bzw. **"Save"**). Nun öffnet sich das neu erstellte Dokument.
 
@@ -143,7 +143,7 @@ Wählen Sie unter **"Images"** alle Bilder aus, indem Sie auf die Schaltfläche 
 
 Klicken Sie anschließend auf die Schaltfläche **"Segment"**.
 
-<img src="./images/31.png" width="110%"><br/>
+<img src="./images/31.png" width="125%"><br/>
 
 Es sollte ein Pop-up-Fenster erscheinen, in dem die Layoutsegmentierung festgelegt werden kann:
 
@@ -157,7 +157,7 @@ Klicken Sie anschließend auf die blaue Schaltfläche **"Segment"**, um die Layo
 
 Eine Schaltfläche in der Bildvorschau zeigt den Fortschritt der laufenden Layoutsegmentierung an. Sobald die Segmentierung für eine Seite abgeschlossen ist, erscheint in der oberen rechten Ecke des Bildschirms eine Meldung (*"Segmentation done!"*).
 
-<img src="./images/33.png" width="125%"><br/>
+<img src="./images/33.png" width="140%"><br/>
 
 #### Schritt 4: Überprüfung der Layoutsegmentierung
 Nachdem die Segmentierung des Layouts abgeschlossen ist, müssen die Seiten überprüft werden. Klicken Sie auf die **blaue Schaltfläche** des ersten Bildes, um die Bearbeitungsansicht von eScriptorium zu aktivieren.
@@ -220,11 +220,11 @@ Nachdem Sie die Schritte 3 - 6 ausgeführt haben, wechseln Sie zurück zum **Rei
 
 Klicken Sie anschließend auf die blaue Schaltfläche **"Transcribe"**.
 
-<img src="./images/43.png" width="120%"><br/>
+<img src="./images/43.png" width="135%"><br/>
 
 Es sollte ein Pop-up-Fenster erscheinen, in dem Sie ein Texterkennungsmodell auswählen können:
 
-<img src="./images/44.png" width="85%"><br/>
+<img src="./images/44.png" width="95%"><br/>
 
 - **Model**: Wählen Sie ein Texterkennungsmodell aus
 - **Layer Name**: Bennen Sie die Traskription
@@ -233,7 +233,7 @@ Klicken Sie auf die Schaltfläche **"Transcribe"**, um die automatische Texterke
 
 Ein Button in der Bildvorschau zeigt eine laufende Texterkennung an. Sobald die Texterkennung für eine Seite abgeschlossen ist, erscheint eine Meldung (*"Transcription done!"*) in der linken unteren Ecke des Bildschirms.
 
-<img src="./images/45.png" width="78%"><br/>
+<img src="./images/45.png" width="85%"><br/>
 
 #### Schritt 9: Überprüfung der Transkriptionen
 Sobald die Texterkennung abgeschlossen ist, müssen die automatisch erstellten Transkriptionen überprüft werden.
@@ -242,11 +242,11 @@ Sobald die Texterkennung abgeschlossen ist, müssen die automatisch erstellten T
 2. Klicken Sie anschließend auf die Schaltfläche **"Transcription"**, um die Transkriptionsansicht zu aktivieren.
 3. Wählen Sie die Transkription, die Sie in Schritt 8 erstellt haben, im Dropdown-Menü aus. Der Name der Transkription folgt dieser Struktur: `OCR-Engine-Name:OCR-Modell-Name`. Beispiel: In "Schritt 8" haben wir das Modell `german_print` für die Engine `kraken` ausgewählt. Der entsprechende Name der Transkription lautet daher: `kraken:german_print`.
 
-<img src="./images/46.png" width="120%"><br/>
+<img src="./images/46.png" width="140%"><br/>
 
 Wenn Sie mit dem Mauszeiger über eine der Textzeilen in der Transkriptionsansicht auf der rechten Seite Ihres Bildschirms fahren, wird die entsprechende Textzeile des Bildes hervorgehoben.
 
-<img src="./images/47.png" width="110%"><br/>
+<img src="./images/47.png" width="130%"><br/>
 
 Wenn Sie auf eine Textzeile in der Transkriptionsansicht klicken, öffnet sich ein Pop-up-Fenster:
 
@@ -264,7 +264,7 @@ In Schritt 10 werden Transkriptionsfehler korrigiert, um Trainingsdaten (*Ground
 2. Klicken Sie nun auf die Schaltfläche **"Text/Line Ordering"**, um die reine Textansicht zu aktivieren.
 3. Wählen Sie die Transkription, die Sie in Schritt 8 erstellt haben, im Dropdown-Menü aus.
 
-<img src="./images/49.png" width="120%"><br/>
+<img src="./images/49.png" width="140%"><br/>
 
 Markieren Sie **alle Textzeilen** (`STRG + A` bei Windows oder `⌘ + A` bei Mac) in der Textansicht und **kopieren** Sie diese (`STRG + C` unter Windows oder `⌘ + C` auf Mac):
 
@@ -272,13 +272,13 @@ Markieren Sie **alle Textzeilen** (`STRG + A` bei Windows oder `⌘ + A` bei Mac
 
 Wählen Sie **"manual"** in der Dropdown-Liste für die Transkription und fügen Sie die soeben kopierte Transkription in die Textansicht ein (`STRG + V` unter Windows oder `⌘ + V` auf dem Mac):
 
-<img src="./images/51.png" width="125%"><br/>
+<img src="./images/51.png" width="140%"><br/>
 
 > **Hinweis:** Dieser Kopiervorgang hat folgenden Zweck: In der "manual" Transkription halten wir die **korrekte Transkription** (= *Ground Truth*) des Textinhalts der jeweiligen Seite fest, die später zum Training verwendet wird. Die noch fehlerhafte automatisch generierte Transkription (erstellt in Schritt 8) dient als Grundlage für die Korrektur. Die Korrekturen werden in der "manual" Transkription vorgenommen, da so sichergestellt ist, dass es in unserem Dokument nur eine einzige Transkription gibt, in der geprüfte und korrigierte Trainingsdaten zu finden sind, nämlich die "manual" Transkription.
 
 Aktivieren Sie nun die **"Transkriptionsansicht ("Transcription")"**:
 
-<img src="./images/52.png" width="120%"><br/>
+<img src="./images/52.png" width="135%"><br/>
 
 Klicken Sie auf die erste Textzeile in der **Transkriptionsansicht**. Das folgende Beispiel zeigt einen Fehler in der generierten Transkription:
 
@@ -321,11 +321,11 @@ Wenn Sie eine ausreichende Menge an Trainingsdaten erstellt haben (siehe [Exkurs
 3. Klicken Sie auf die blaue Schaltfläche **"Train Model"**.
 4. Klicken Sie auf **"Recognizer"**.
 
-<img src="./images/55.png" width="120%"><br/>
+<img src="./images/55.png" width="140%"><br/>
 
 Es sollte sich ein Pop-up-Fenster öffnen, das wie folgt aussieht:
 
-<img src="./images/56.png" width="84%"><br/>
+<img src="./images/56.png" width="90%"><br/>
 
 - **Erstes Dropdown**: Wählen Sie die "manual" Transkription, in der Sie die korrigierten Transkriptionen gespeichert haben.
 - **Feld `Modell Name`**: Wählen Sie einen Namen für Ihr nachtrainiertes Modell
@@ -343,7 +343,7 @@ Der Stand des Trainings wird in der Dokumentenübersicht unter **"Tasks"** wie f
 
 Wenn Sie den Trainingsfortschritt sehen möchten, klicken Sie in der Leiste links oben auf **"Models"**:
 
-<img src="./images/58.png" width="140%"><br/>
+<img src="./images/58.png" width="160%"><br/>
 
 Das Modell, das Sie gerade trainieren, wird in dieser Übersicht angezeigt. Mit einem Klick auf die markierte Schaltfläche können Sie alle bereits abgeschlossenen Trainingsepochen anzeigen. Eine Benachrichtigung erscheint, sobald das Training beendet ist.
 
@@ -359,7 +359,7 @@ Nachdem Sie eine ausreichende Menge an Trainingsdaten erstellt haben (siehe [Exk
 3. Klicken Sie auf die blaue Schaltfläche **"Train Model"**.
 4. Klicken Sie auf **"Recognizer"**.
 
-<img src="./images/59.png" width="125%"><br/>
+<img src="./images/59.png" width="145%"><br/>
 
 Es sollte sich ein Pop-up-Fenster öffnen, das wie folgt aussieht:
 
@@ -377,7 +377,7 @@ Klicken Sie abschließend auf die blaue Schaltfläche **"Train Model"**, um das 
 
 Ein laufendes Training wird unter **"Models"** wie folgt angezeigt:
 
-<img src="./images/61.png" width="165%"><br/>
+<img src="./images/61.png" width="190%"><br/>
 
 #### Schritt 12: Wiederholung der automatischen Texterkennung und Evaluation des nachtrainierten Modells
 Nachdem das Training abgeschlossen ist, steht das nachtrainierte Texterkennungsmodell für Tests zur Verfügung. Dieser Schritt hilft zu erkennen, ob das neue Modell bessere Ergebnisse liefert als das zuvor in Schritt 8 verwendete Basismodell.
@@ -387,11 +387,11 @@ Nachdem das Training abgeschlossen ist, steht das nachtrainierte Texterkennungsm
    - *Wählen Sie eine oder mehrere Seiten aus, die nicht Teil des Trainings waren, um optimale Bewertungsergebnisse zu gewährleisten*.
 3. Klicken Sie auf die blaue Schaltfläche **"Transcribe"**.
 
-<img src="./images/62.png" width="125%"><br/>
+<img src="./images/62.png" width="140%"><br/>
 
 Es sollte ein Pop-up-Fenster erscheinen, in dem Sie ein Texterkennungsmodell auswählen können:
 
-<img src="./images/63.png" width="50%"><br/>
+<img src="./images/63.png" width="55%"><br/>
 
 - **Wählen Sie ein Modell aus ("Model")**: Wählen Sie das Modell, das Sie in `Schritt 11` nachtrainiert haben.
 - **Wählen Sie einen Namen für die Transkription ("Layer Name")**: Wählen Sie einen Namen für das neue Transkriptions-Layer.
@@ -408,7 +408,7 @@ Sobald die Texterkennung abgeschlossen ist, können die generierten Transkriptio
 2. Wählen Sie nun die Schaltfläche **"Transcription"** aus, um die Transkriptionsansicht zu aktivieren.
 3. Wählen Sie im Dropdown-Menü die Transkription aus, die Sie mit Ihrem nachtrainierten Modell erstellt haben.
 
-<img src="./images/65.png" width="125%"><br/>
+<img src="./images/65.png" width="140%"><br/>
 
 Bewerten Sie die Erkennungsgenauigkeit des nachtrainierten Modells, indem Sie die Transkriptionen des Basismodells, das Sie in `Schritt 8` verwendet haben, mit den Transkriptionen vergleichen, die Sie gerade mit dem neu trainierten Modell erstellt haben.
 
@@ -463,7 +463,7 @@ Ein laufendes Training wird in der Dokumentenübersicht unter **"Tasks"** wie fo
 
 Wenn Sie den Trainingsfortschritt sehen möchten, klicken Sie auf **"Models"**:
 
-<img src="./images/72.png" width="140%"><br/>
+<img src="./images/72.png" width="165%"><br/>
 
 Das Modell, das Sie gerade trainieren, wird in dieser Übersicht angezeigt. Mit einem Klick auf die Schaltfläche **"Toggle versions"** können Sie alle bereits abgeschlossenen Trainingsepochen anzeigen. Eine Benachrichtigung erscheint, sobald das Training beendet ist.
 
@@ -475,11 +475,11 @@ Nachdem das Training abgeschlossen ist, steht Ihr nachtrainiertes Layoutsegmenti
    - *Wählen Sie eine oder mehrere Seiten, die nicht Teil des Trainings waren, um optimale Bewertungsergebnisse zu erzielen.*
 3. Klicken Sie auf die blaue Schaltfläche **"Segment"**.
 
-<img src="./images/73.png" width="125%"><br/>
+<img src="./images/73.png" width="140%"><br/>
 
 Es sollte ein Pop-up-Fenster erscheinen, in dem Sie ein Layoutsegmentierungsmodell auswählen können:
 
-<img src="./images/74.png" width="65%"><br/>
+<img src="./images/74.png" width="70%"><br/>
 
 - **Wählen Sie ein Modell aus**: Wählen Sie das Modell, das Sie in "Schritt 2" nachtrainiert haben.
 - Klicken Sie auf die Schaltfläche **"Segment"**, um die Layoutsegmentierung zu starten.
@@ -504,7 +504,7 @@ Nachdem Sie Ihre Trainingsdaten erstellt oder importiert haben, führen Sie die 
 3. Klicken Sie auf die blaue Schaltfläche **"Train Model"**.
 4. Wählen Sie entweder **"Recognizer"** oder **"Segmenter"**, je nachdem, welche Art von Modell Sie trainieren möchten.
 
-<img src="./images/75.png" width="125%"><br/>
+<img src="./images/75.png" width="150%"><br/>
 
 5. Es sollte ein Pop-up-Fenster erscheinen, in dem die Einstellungen für das Training wie folgt vorgenommen werden können:
 
@@ -530,7 +530,7 @@ Nachdem das Training abgeschlossen ist, steht Ihr Modell zum Test zur Verfügung
    - *Wählen Sie eine Seite aus, die nicht Teil des Trainings selbst war, um optimale Bewertungsergebnisse zu gewährleisten.*
 3. Klicken Sie auf die blaue Schaltfläche **"Segment"**, wenn Sie ein **Layoutsegmentierungsmodell** trainiert haben, oder klicken Sie auf die blaue Schaltfläche **"Transcribe"**, wenn Sie ein **Texterkennungsmodell** trainiert haben.
 
-<img src="./images/78.png" width="130%"><br/>
+<img src="./images/78.png" width="155%"><br/>
 
 4. Es sollte ein Pop-up-Fenster erscheinen, in dem Sie Ihr Modell auswählen können:
 
