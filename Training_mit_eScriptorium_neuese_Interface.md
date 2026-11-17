@@ -73,7 +73,7 @@ Vor allem für das Nachtraining bereits vorhandener Layoutsegmentierungs- oder T
 
 Alle `kraken`-Modelle können in eScriptorium hochgeladen werden, indem Sie auf **"Models"** in der oberen linken Ecke des Bildschirms klicken. Klicken Sie auf der nächsten Seite rechts oben auf **"Upload a model"** und wählen Sie das Modell aus, das Sie hochladen möchten.
 
-<img src="./images/22.png" width="190%"><br/>
+<img src="./images/22.png" width="200%"><br/>
 
 ### 2.3. Wie wähle ich ein Modell für einen bestimmten Nutzungszweck aus?
 Die Genauigkeit eines Modells hängt von verschiedenen Faktoren ab und muss für jeden Anwendungsfall getestet werden. Ein Modell, das bspw. auf traditionelle chinesische Schriftzeichen trainiert wurde, wird aller Voraussicht nach bei deutschen Dokumenten, die in Fraktur gedruckt sind, nicht gut abschneiden.
